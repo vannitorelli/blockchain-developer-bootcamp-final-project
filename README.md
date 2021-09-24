@@ -15,7 +15,7 @@ These promising students need capital to pay for their studies. So why not raise
 
 Why, then, not leverage Decentralized Finance (DeFi) and offer such an instrument as a Non-fungible Token (NFT) to the wider public? This way, anybody may crowdfund a student's success while enjoying the combined growth effects of free-market floating and a predictable inflation model linked to the student's ongoing progress.
 
-Mechanics
+# Mechanics
 
 1. Bootstrap stage. Student, or an Agent on their behalf, will need to build a Pledge, a collection of materials that establish the student's performance up to that point: verified transcripts from past and current educational institutions, references from education professionals, friends and family, proof of low-income status, etc. All this materials will be vetted and, after being deemed genuine, cryptographically secured and stored in the Ethereum L1 or L2 blockchain.
 
@@ -23,7 +23,7 @@ Mechanics
 
 3. Seeding stage. The NFT will enter the market via a specialised exchange and made available to the wider public. Investors may access all Pledges and make a judgment call on each Students' present and expected future value. Based on this judgment, they may opt to buy one or more Student Tokens, at a price that increases geometrically based on fractional units bought. To avoid abuse, a limit may be placed on how much fractional units may be bought by a single address.
 
-E.g baseline price is 1 ETH, or 0.000001 ETH per unit. Order have a minimum size of 1%, or 10,000 units. Every 1% (10,000 units) bought will automatically inflate the price by 2.4%. This corresponds to the Student Token price being 400% of baseline value, or the equivalent of 10/14K USD, when all units are boughts.
+E.g baseline price is 1 ETH, or 0.000001 ETH per unit. Order have a minimum size of 1%, or 10,000 units. Every 1% (10,000 units) bought will automatically inflate the price by   2.4%. This corresponds to the Student Token price being 400% of baseline value, or the equivalent of 10/14K USD, when all units are boughts.
 
 4. Fruition stage. After a pre-determined number of days from token creation, the Investment stage will be deemed concluded. E.g. assuming 75% of the Token is bought, the market price of the token is fixed at the 76th percentile, so 0.05922386522 ETH for 10,000 units (from a baseline of 0.01).
 
@@ -35,8 +35,7 @@ The value of the sold token units would be 2.11 ETH. Student may be able to acce
 
 The model may be tweaked to reflect specific biases on degree subjects (e.g. STEM preferred over Humanities and Liberal studies), academic entrance requirements (e.g. "harder" colleges will inflate the price more). Credentials proving successfully-earned credits will have to be verified by an independent Agent and recorded on the blockchain, and associated with the inflation factor applied.
 
-
-Notes
+# Notes
 
 The Student Token is not a loan. It is the equivalent of generating equity based on the "market fundamentals" of excellent academic performance.
 
