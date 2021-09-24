@@ -1,8 +1,6 @@
 # blockchain-developer-bootcamp-final-project
 Code and allied materials for the final project of the Consensys Blockchain Developer Bootcamp 2021.
 
-# Overview
-
 In much of the world, being a young student from a low-income background often means no access to quality education, and the life-changing opportunities that come with it. 
 
 Most emerging economies of Africa, South America and Asia, see free quality education administered by few institutions with limited places and competitive entry requirements. The backbone of the education system is made up by a plethora of private high schools and colleges which, while not always offering prohibitive fees, often provide poor value for money in terms of learning experience and employment prospects after graduation.
@@ -15,9 +13,9 @@ What one can more easily improve are the chances for deserving students to acces
 
 These promising students need capital to pay for their studies. So why not raise it by creating a tradable instrument that tracks both a student's present value and their expectations of future success, based on objective metrics not dissimilar from those governing the equity markets?
 
-Why, then, not leverage Decentralized Finance (DeFi) and offer such an instrument as a Non-fungible Token (NFT) to the wider public? This way, anybody may crowdfund a student's success while enjoying the combined growth effect of a liquid, exchange-traded instrument and a predictable inflation model linked to the student's ongoing progress?
+Why, then, not leverage Decentralized Finance (DeFi) and offer such an instrument as a Non-fungible Token (NFT) to the wider public? This way, anybody may crowdfund a student's success while enjoying the combined growth effects of free-market floating and a predictable inflation model linked to the student's ongoing progress.
 
-# Mechanics
+Mechanics
 
 1. Bootstrap stage. Student, or an Agent on their behalf, will need to build a Pledge, a collection of materials that establish the student's performance up to that point: verified transcripts from past and current educational institutions, references from education professionals, friends and family, proof of low-income status, etc. All this materials will be vetted and, after being deemed genuine, cryptographically secured and stored in the Ethereum L1 or L2 blockchain.
 
@@ -38,11 +36,10 @@ The value of the sold token units would be 2.11 ETH. Student may be able to acce
 The model may be tweaked to reflect specific biases on degree subjects (e.g. STEM preferred over Humanities and Liberal studies), academic entrance requirements (e.g. "harder" colleges will inflate the price more). Credentials proving successfully-earned credits will have to be verified by an independent Agent and recorded on the blockchain, and associated with the inflation factor applied.
 
 
-# Notes
+Notes
 
 The Student Token is not a loan. It is the equivalent of generating equity based on the "market fundamentals" of excellent academic performance.
 
 Privacy considerations are important: Pledges may be made public without necessarily disclosing the Student's gender, name, address and other generalities. This is of paramount importance as many Students may be minors at the time of joining the programme. The only proof Investors, in fact any participant, will require is that all initial and ongoing credentials establishing academic performance is genuine.
 
 If the independent Agent model is not possible, a private company overseeing the programme will be created. In this case, an administrative fee (e.g. 1% of the token value per year) will be levied.
-
