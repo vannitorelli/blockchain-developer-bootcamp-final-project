@@ -39,6 +39,6 @@ The model may be tweaked to reflect specific biases on degree subjects (e.g. STE
 
 The Student Token is not a loan. It is the equivalent of generating equity based on the "market fundamentals" of excellent academic performance.
 
-Privacy considerations are important: Pledges may be made public without necessarily disclosing the Student's gender, name, address and other generalities. This is of paramount importance as many Students may be minors at the time of joining the programme. The only proof Investors, in fact any participant, will require is that all initial and ongoing credentials establishing academic performance is genuine.
+Privacy considerations are important: Pledges may be made public without necessarily disclosing the Student's gender, name, address and other generalities. This is of paramount importance as many Students may be minors at the time of joining the programme. The only proof Investors, in fact any participant, will require is that all initial and ongoing credentials establishing academic performance are genuine.
 
 If the independent Agent model is not possible, a private company overseeing the programme will be created. In this case, an administrative fee (e.g. 1% of the token value per year) will be levied.
